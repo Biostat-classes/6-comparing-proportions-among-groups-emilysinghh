@@ -1,6 +1,6 @@
 ---
 title: "Compare proportions among groups"
-author: "JSG"
+author: "emily"
 format:
   html:
     embed-resources: true
